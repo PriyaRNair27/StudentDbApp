@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/mzc/AndroidStudioProjects/StudentDbApp/app/src/main/res/layout/activity_add_student.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/mzc/AndroidStudioProjects/StudentDbApp/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/StudentDbApp/app/src/main/res/layout/activity_search.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/StudentDbApp/app/src/main/res/layout/activity_search_stud.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/StudentDbApp/app/src/main/res/layout/activity_search_student.xml" value="0.1213768115942029" />
       </map>
     </option>
   </component>

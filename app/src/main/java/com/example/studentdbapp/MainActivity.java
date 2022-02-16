@@ -19,7 +19,15 @@ AppCompatButton b1,b2;
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =new Intent(getApplicationContext(),)
+                Intent i =new Intent(getApplicationContext(),AddStudentActivity.class);
+                startActivity(i);
+            }
+        });
+        b2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i= new Intent(getApplicationContext(),SearchStudActivity.class);
+                startActivity(i);
             }
         });
     }
